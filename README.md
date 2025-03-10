@@ -15,7 +15,7 @@
 - 🏫 I’m pursuing **Bachelor of Science from Vikram University, Ujjain**
 - 🤝 I’m currently learning **Redux and WebSockets**
 - 💬 Ask me about **JavaScript, React, Node.js, and MongoDB**
-- 📫 How to reach me: **archanameena@example.com**
+- 📫 How to reach me: **archanameena9630@gmail.com**
 - ⚡ Fun fact: **I love problem-solving and exploring new technologies!**
 
 ## 🌐 <i>Socials:</i>
