@@ -114,31 +114,4 @@
 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) 
 -->
-# 📊 <i>GitHub Stats:</i>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=archanameena&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=archanameena&theme=gotham&hide_border=false) <br>
-<center>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=archanameena&theme=gotham&hide_border=false" alt="Streak Stats">
-</center>
-
-
-
-## 🏆 <i>GitHub Trophies</i>
-![](https://github-profile-trophy.vercel.app/?username=archanameena&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 <i>Top Contributed Repo</i>
-<div > 
-  <img src="https://github-contributor-stats.vercel.app/api?username=archanameena&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
-</div>
-
- 
-
-
-### ✍ <i>Dev Quote</i>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<br clear="both">
-   
+  
