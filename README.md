@@ -28,9 +28,7 @@
 # 💻 <i>Tech Stack:</i>
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)](https://www.java.com/)
 [![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/en)
-[![Express](https://img.shields.io/badge/express-%2370D7F4.svg?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
-[![Nest.js](https://img.shields.io/badge/nest.js-%2370E7F4.svg?style=flat&logo=express&logoColor=white)](https://docs.nestjs.com/)
-
+[![Express](https://img.shields.io/badge/express-%2370D7F4.svg?style=flat&logo=express&logoColor=white)](https://expressjs.com/) 
 
 
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
@@ -69,8 +67,7 @@
 
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) 
 
-
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) 
+ 
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
