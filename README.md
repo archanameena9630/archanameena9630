@@ -13,7 +13,7 @@
 # 💫 About Me:
 - 🌱 I’m a **MERN Stack Developer**
 - 🔭 I’m currently working on **Manasthali** (A Social Media Platform)
-- 🏫 I’m pursuing **Bachelor of Science from Vikram University, Ujjain**
+- 🏫 I’have completed **Bachelor of Science from Vikram University, Ujjain**
 - 🤝 I’m currently learning **Redux and WebSockets**
 - 💬 Ask me about **JavaScript, React, Node.js, and MongoDB**
 - ⚡ Fun fact: **I love problem-solving and exploring new technologies!**
